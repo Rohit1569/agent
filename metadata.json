@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nexus Personal Assistant",
+  "description": "A high-performance AI personal assistant designed to manage your schedule, tasks, and communications with an Android-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
